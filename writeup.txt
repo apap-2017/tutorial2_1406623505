@@ -1,0 +1,25 @@
+Latihan
+
+1. Tidak terjadi compile error. Tetapi terjadi White page label error ketika halaman diakses.
+
+2. Tidak terjadi compile error. Tidak terjadi error ketika mengakses halaman hello. 
+
+3. Tidak terjadi compile error. Halaman tersebut tidak muncul karena html yang dipanggil tidak ada.
+	Return String tersebut menandakan nama halaman yang akan diakses.
+	
+Latihan	
+1. Error, karena tidak ada mapping /greeting lagi.
+
+
+2. Selamat datang !
+
+3. Selamat datang dunia!
+
+4. karena menggunakan th:text (thymeleaf)
+
+Laatihan path variable
+1. Selamat datang dengklek!
+
+2. Selamat datang chanek!
+
+3. 
