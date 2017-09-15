@@ -11,7 +11,7 @@ Latihan
 1. Error, karena tidak ada mapping /greeting lagi.
 
 
-2. Selamat datang !
+2. Selamat datang null!
 
 3. Selamat datang dunia!
 
@@ -22,4 +22,7 @@ Laatihan path variable
 
 2. Selamat datang chanek!
 
-3. 
+
+
+Lesson learned:
+Terkadang ada yang tidak bisa di copy paste langsung dari pdf, tetapi harus ditulis sendiri.
